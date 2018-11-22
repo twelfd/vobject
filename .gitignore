@@ -20,3 +20,4 @@ testdata/
 
 # OS X
 .DS_Store
+/nbproject/private/
